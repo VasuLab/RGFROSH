@@ -1,0 +1,5 @@
+/* Indentation. */
+div.doc-contents {
+  padding-left: 15px;
+  border-left: 4px solid rgba(127, 127, 127, 0.25);
+}
